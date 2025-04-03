@@ -1,0 +1,7 @@
+pandas
+matplotlib
+radon
+pydriller
+gitpython
+lizard
+ijson
